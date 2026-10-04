@@ -1,5 +1,9 @@
 site_name: MD Notes
 
 nav:
-  Finance:
-    Salary: mds/Finance/Salary.md
+  mds:
+    Finance:
+      NPS: mds/Finance/NPS.md
+      Salary: mds/Finance/Salary.md
+      Taxation: mds/Finance/Taxation.md
+  README: README.md
