@@ -1,0 +1,5 @@
+site_name: MD Notes
+
+nav:
+  Finance:
+    Salary: mds/Finance/Salary.md
